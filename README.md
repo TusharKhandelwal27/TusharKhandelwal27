@@ -1,7 +1,7 @@
 ### Hi there 👋 MY name is Tushar Khandelwal.I am from Amity University taking Btech(CSE).🏫
 I have a huge interest in AI/MI and development🧑‍💻! Currently studying Machine Learning,Python,DSA in C .
 Currently just a student.
-L love to join different community that involve creating something for the society!🙋
+I love to join different community that involve creating something for the society!🙋
 
 
 <!--
